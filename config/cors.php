@@ -5,7 +5,7 @@ return [
 
 'allowed_methods' => ['*'],
 
-'allowed_origins' => ['https://marseille-style.shop'],
+'allowed_origins' => ['https://marseille-style.shop', 'http://localhost:5173', 'http://localhost:8000'],
 'allowed_headers' => ['*'],
 
 'supports_credentials' => true,
